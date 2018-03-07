@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GuessingGame</string>
+    <string name="intro_msg">Choose a number</string>
+    <string name="win_msg">Congratulations you found the right number!</string>
+    <string name="too_high">Try smaller</string>
+    <string name="too_low">Try bigger</string>
+</resources>
